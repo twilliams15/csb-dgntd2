@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://twilliams15.github.io/csb-dgntd2/static/css/main.595aeded.chunk.css",
+    "main.js": "https://twilliams15.github.io/csb-dgntd2/static/js/main.d4c9458d.chunk.js",
+    "main.js.map": "https://twilliams15.github.io/csb-dgntd2/static/js/main.d4c9458d.chunk.js.map",
+    "runtime-main.js": "https://twilliams15.github.io/csb-dgntd2/static/js/runtime-main.3e877537.js",
+    "runtime-main.js.map": "https://twilliams15.github.io/csb-dgntd2/static/js/runtime-main.3e877537.js.map",
+    "static/css/2.23478a14.chunk.css": "https://twilliams15.github.io/csb-dgntd2/static/css/2.23478a14.chunk.css",
+    "static/js/2.c70bd280.chunk.js": "https://twilliams15.github.io/csb-dgntd2/static/js/2.c70bd280.chunk.js",
+    "static/js/2.c70bd280.chunk.js.map": "https://twilliams15.github.io/csb-dgntd2/static/js/2.c70bd280.chunk.js.map",
+    "index.html": "https://twilliams15.github.io/csb-dgntd2/index.html",
+    "static/css/2.23478a14.chunk.css.map": "https://twilliams15.github.io/csb-dgntd2/static/css/2.23478a14.chunk.css.map",
+    "static/css/main.595aeded.chunk.css.map": "https://twilliams15.github.io/csb-dgntd2/static/css/main.595aeded.chunk.css.map",
+    "static/js/2.c70bd280.chunk.js.LICENSE.txt": "https://twilliams15.github.io/csb-dgntd2/static/js/2.c70bd280.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e877537.js",
+    "static/css/2.23478a14.chunk.css",
+    "static/js/2.c70bd280.chunk.js",
+    "static/css/main.595aeded.chunk.css",
+    "static/js/main.d4c9458d.chunk.js"
+  ]
+}
